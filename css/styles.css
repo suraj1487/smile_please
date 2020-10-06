@@ -1,0 +1,108 @@
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 200%;
+  background-color: #ffc1f3;
+  background-image: url(https://www.gracelanddesign.com/wp-content/uploads/2018/11/Pink-Balloon-Confetti.jpg);
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  line-height: 2;
+  font-family: 'Permanent Marker', cursive;
+  color: #463333;
+}
+
+h2 {
+  font-family: 'Caveat', cursive;
+  font-size: 2.5rem;
+  color: #463333;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #463333;
+}
+
+p {
+    line-height: 1.5;
+    font-family: 'Caveat', cursive;
+    font-size: 2.5rem;
+    color: #463333;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+a {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #EAF6F6;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: center;
+}
+
+.top-container {
+  background-image: url(https://www.gracelanddesign.com/wp-content/uploads/2018/11/Pink-Birthday-Star-Pop.jpg);
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.web {
+  font-family: 'Montez', cursive;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.contact{
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+
+.education {
+  float: left;
+  margin-right: 30px;
+}
+
+.gyming {
+  float: right;
+  margin-left: 30px;
+}
+
+.copyright {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+}
